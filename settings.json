@@ -1,0 +1,33 @@
+{
+    "docker.showExplorer": false,
+    "editor.fontLigatures": true,
+    "editor.renderIndentGuides": true,
+    "editor.renderLineHighlight": "all",
+	"editor.renderWhitespace": "boundary",
+    "editor.rulers": [
+        80, 120
+    ],
+    "editor.selectionHighlight": true,
+    "explorer.autoReveal": true,
+    "files.trimTrailingWhitespace": true,
+    "git.autofetch": false,
+    "gitlens.advanced.messages": {
+        "suppressResultsExplorerNotice": true,
+        "suppressShowKeyBindingsNotice": true
+    },
+    "gitlens.currentLine.enabled": false,
+    "gitlens.hovers.currentLine.over": "line",
+    "gitlens.historyExplorer.enabled": false,
+    "gitlens.gitExplorer.enabled": false,
+    "gitlens.gitExplorer.files.layout": "auto",
+    "omnisharp.autoStart": false,
+    "powershell.powerShellExePath": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "team.showWelcomeMessage": false,
+    "tfvc.location": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Enterprise\\Common7\\IDE\\CommonExtensions\\Microsoft\\TeamFoundation\\Team Explorer\\TF.exe",
+    "window.menuBarVisibility": "toggle",
+    "window.zoomLevel": 1,
+    "workbench.editor.showIcons": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "City Lights",
+}
