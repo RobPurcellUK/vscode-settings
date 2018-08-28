@@ -22,6 +22,10 @@
     "gitlens.gitExplorer.files.layout": "auto",
     "omnisharp.autoStart": false,
     "powershell.powerShellExePath": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "workbench.colorCustomizations": {
+        "terminal.foreground" : "#F0F0F0",
+        "terminal.background" : "#0A3232"
+    },
     "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
     "team.showWelcomeMessage": false,
     "tfvc.location": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Enterprise\\Common7\\IDE\\CommonExtensions\\Microsoft\\TeamFoundation\\Team Explorer\\TF.exe",
